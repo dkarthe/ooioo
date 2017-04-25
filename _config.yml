@@ -20,9 +20,8 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
-  # duoshuo: kongsong
-  youyan: 2122392
+  disqus: kd    
+
 
 # Website analytics
 google_analytics: UA-98062322-1
@@ -34,7 +33,7 @@ author:
  
 # Social Links
 email:               info@ooioo.co
-#google.plus:        +karthikdkarthi
+#google+:            +karthikdkarthi
 #twitter:            dkaarthik
 facebook:            u4i.me
 github:              dkarthe      
