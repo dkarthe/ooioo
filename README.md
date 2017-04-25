@@ -1,23 +1,18 @@
-# Codinfox-Lanyon
+#Thinny - The Infinite's Nymphet
 
-This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
+##About
+Thinny is a beautiful theme for [Jekyll](http://jekyllrb.com/).
 
-**If you like this project, PLEASE give it a star.**
+(if you're looking for the [Ghost](http://ghost.org) release of the theme, check [this page](https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra))
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+##Demo
+[![Preview image](https://f.cloud.github.com/assets/5755892/2002329/bdb5a052-85ed-11e3-8e00-a892910b6917.png)](http://camporez.com/)
+The above image is a preview of how the post header looks on Thinny.
 
-All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward. 
+A live demo is available [on my personal blog](http://camporez.com/).
 
-The theme supports: 
+##More information
+Read the blog post [here](http://camporez.com/blog/thinny-2/).
 
-1. Theme colors: you can choose your favorite theme color
-2. Changable sidebar locations
-3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
-4. and numerous improvements over original Lanyon
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+##Reporting issues
+You can report an issue or request a feature [here](http://github.com/camporez/camporez.github.io/issues) or on [twitter](http://twitter.com/iancamporez).
