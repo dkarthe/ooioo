@@ -1,9 +1,9 @@
 # user variables, change this to make custom site.
 
-name: Lemma
+name: ooioo
 desc: Yet another simple theme for Jekyll.
 author:
-  name: neizod
+  name: KD
   avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
   profile: |
     Just another ordinary grad student in computer engineering.
@@ -24,7 +24,7 @@ license: MIT License
 
 
 # theme variables, change this to make site looks best.
-baseurl: /ooioo
+baseurl: http://ooioo.co
 paginate: 2
 
 
