@@ -12,11 +12,11 @@ author:
     I live in Chiang Mai or Bangkok, Thailand.
     And you may found me around BarCamp event ;D
   socials:
-    facebook:
-    twitter: //twitter.com/neizod
-    google-plus:
-    github: //github.com/neizod
-    stack-overflow: //stackoverflow.com/users/889578/neizod
+    facebook: //facebook.com/u4i.me
+    twitter: //twitter.com/dkaarthik
+    github: //github.com/dkarthe
+    google-plus: //
+    stack-overflow: //
     instagram:
     pinterest:
     steam: //steamcommunity.com/id/neizod/
@@ -24,7 +24,7 @@ license: MIT License
 
 
 # theme variables, change this to make site looks best.
-baseurl: http://ooioo.co
+baseurl: https://ooioo.co
 paginate: 2
 
 
