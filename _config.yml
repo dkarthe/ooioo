@@ -5,7 +5,7 @@ url: https://ooioo.co/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "https://ooioo.co"
+baseurl: "/karna"
 
 
 sass:
