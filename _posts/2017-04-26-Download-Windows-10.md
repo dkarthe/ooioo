@@ -1,6 +1,6 @@
 ---
 published: true
-Tag: '-Announcement'
+Tag: '-Announcement -Test'
 ---
 
 
