@@ -22,7 +22,6 @@ author:
     
 license: MIT License
 
-
 # theme variables, change this to make site looks best.
 baseurl: https://ooioo.co
 paginate: 2
@@ -56,3 +55,9 @@ permalink: /:categories/:title/
 
 gems:
   - jekyll-seo-tag
+
+webmaster_verifications:
+  google: 
+  bing: 
+  alexa:
+  yandex:
