@@ -1,0 +1,19 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: KD Resume
+email: info@ooioo.co
+description: Jekyll Resume is a mega simple resume theme for Jekyll.
+baseurl: "http://ooioo.co/"
+url: "http://ooioo.co"
+name: Karthik D
+job: Network Engineer
+location: TN, IN
+Skill: Routing & Switching 
+twitter_username: dkaarthik
+github_username:  dkarthe
+facebook_username:  u4i.me
+email_address: info@ooioo.co
+
+# Build settings
+markdown: kramdown
