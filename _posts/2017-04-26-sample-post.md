@@ -1,7 +1,8 @@
 ---
 published: false
 ---
-## A New Post
+# New Post
+## Sample post
 
 This is sample post of ooioo.co![Android Stuff]({{site.baseurl}}/_posts/maxresdefault.jpg)
 
