@@ -21,3 +21,16 @@ layout: default
 {{ content }}
 {% include  share.html %}
 {% include disqus.html %}
+
+<article id="post-page" >
+    <a href=""><h2>{{ page.title }}</h2></a>
+    <time>{{ page.date | date_to_string }}</time>
+    <div class="content" >
+            {{ content }}
+    </div>    
+
+ {% if post.comments != 0 %}
+    {% include  disqus.html %}
+ {% endif %}
+ 
+</article>
