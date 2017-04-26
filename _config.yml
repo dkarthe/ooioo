@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 title: Karna
 desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
@@ -7,6 +8,56 @@ permalink: ':title/'
 markdown: kramdown
 baseurl: "/karna"
 
+=======
+# user variables, change this to make custom site.
+
+name: ooioo
+desc: Yet another simple theme for Jekyll.
+author:
+  name: KD
+  avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
+  profile: |
+    Just another ordinary grad student in computer engineering.
+    I'm interest in programming language, algorithm, and mathematics.
+
+    I live in Chiang Mai or Bangkok, Thailand.
+    And you may found me around BarCamp event ;D
+  socials:
+    facebook: https://facebook.com/u4i.me
+    twitter: https://twitter.com/dkaarthik
+    github: https://github.com/dkarthe
+    google-plus: //
+    stack-overflow: //
+    instagram:
+    pinterest:
+    steam: //steamcommunity.com/id/neizod/
+license: MIT License
+
+
+# theme variables, change this to make site looks best.
+baseurl: https://ooioo.co
+paginate: 2
+
+
+# system variables, do not change unless you knew what's it does.
+paginate_path: page/:num
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+>>>>>>> origin/gh-pages
 
 sass:
     style: compressed
