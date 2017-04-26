@@ -52,3 +52,4 @@ sass:
   style: compressed
 
 compress html
+permalink: /:categories/:title/
