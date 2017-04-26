@@ -53,3 +53,6 @@ sass:
 
 compress html
 permalink: /:categories/:title/
+
+gems:
+  - jekyll-seo-tag
