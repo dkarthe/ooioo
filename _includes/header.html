@@ -1,16 +1,17 @@
-<header id="header">
-  <div class="wrapper">
-    <nav>
-      {% if page.nav != 'home' %}
-        <a href=" /">Home</a>
-        <a href=" /blog ">Blog</a>
-        <a href=" /feed.xml "><i class="fa fa-rss" aria-hidden="true"></i></a>
-      {% else %}
-        <a href=" # ">Home</a>
-        <a href=" #about ">About</a>
-        <a href=" #blog ">Blog</a>
-        <a href=" #projects">Projects</a>
-      {% endif %}
-    </nav>
-  </div>
-</header>
+<a href="{{ site.baseurl }}/index.html">{{ site.name }}</a>
+<small class="visible-xs-inline" id="location">
+  {% if page.url == "/archives.html" %}
+    / <i class="fa fa-fw fa-archive"></i>
+  {% elsif page.url == "/tags.html" %}
+    / <i class="fa fa-fw fa-tags"></i>
+  {% elsif page.url == "/projects.html" %}
+    / <i class="fa fa-fw fa-flask"></i>
+  {% elsif page.url == "/about.html" %}
+    / <i class="fa fa-fw fa-user"></i>
+  {% endif %}
+</small>
+<div class="button-group visible-xs pull-right">
+  <button type="button" class="btn btn-default" id="menu-toggle">
+    <span class="fa fa-list-alt"></span>
+  </button>
+</div>

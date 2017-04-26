@@ -1,66 +1,52 @@
-#Site
-title: ooIoo · Home
-description: ooioo ' home.
-logo: favicon.png
-url: http://ooioo.co
+# user variables, change this to make custom site.
 
-# Jekyll
-permalink:          /blog/:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-sass:
-  sass_dir:         assets/_sass
-  style:            compressed
-
-# Comment
-comment:
-  disqus: kd    
-
-
-# Website analytics
-google_analytics: UA-98062322-1
-
-# Author information:
+name: Lemma
+desc: Yet another simple theme for Jekyll.
 author:
-  name: KD     #the name of Blog section
-  about_me: I'm KD, a student from PU. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
- 
-# Social Links
-email:               info@ooioo.co
-#google+:            +karthikdkarthi
-#twitter:            dkaarthik
-facebook:            u4i.me
-github:              dkarthe      
-linkedin:           dkaarthik
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-#behance:           username
+  name: neizod
+  avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
+  profile: |
+    Just another ordinary grad student in computer engineering.
+    I'm interest in programming language, algorithm, and mathematics.
 
-# Gems
-gems:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
+    I live in Chiang Mai or Bangkok, Thailand.
+    And you may found me around BarCamp event ;D
+  socials:
+    facebook:
+    twitter: //twitter.com/neizod
+    google-plus:
+    github: //github.com/neizod
+    stack-overflow: //stackoverflow.com/users/889578/neizod
+    instagram:
+    pinterest:
+    steam: //steamcommunity.com/id/neizod/
+license: MIT License
 
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile,.sass-cache,.DS_Store,.idea]
+
+# theme variables, change this to make site looks best.
+baseurl: /lemma-theme
+paginate: 2
+
+
+# system variables, do not change unless you knew what's it does.
+paginate_path: page/:num
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+sass:
+  sass_dir: _sass
+  style: compressed
