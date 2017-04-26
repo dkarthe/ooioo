@@ -1,25 +1,24 @@
 # user variables, change this to make custom site.
 
-name: Lemma
+name: KD
 desc: Yet another simple theme for Jekyll.
 author:
-  name: neizod
+  name: KD
   avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
   profile: |
-    Just another ordinary grad student in computer engineering.
+    Just another ordinary grad student in Electronics engineering.
     I'm interest in programming language, algorithm, and mathematics.
 
-    I live in Chiang Mai or Bangkok, Thailand.
+    I'm living in India.
     And you may found me around BarCamp event ;D
   socials:
-    facebook:
-    twitter: //twitter.com/neizod
+    facebook: https://facebook.com/u4i.me
+    twitter: https://twitter.com/dkaarthik
+    github: https://github.com/dkarthe
     google-plus:
-    github: //github.com/neizod
-    stack-overflow: //stackoverflow.com/users/889578/neizod
     instagram:
     pinterest:
-    steam: //steamcommunity.com/id/neizod/
+    
 license: MIT License
 
 
