@@ -1,52 +1,43 @@
-# user variables, change this to make custom site.
 
-name: Lemma
-desc: Yet another simple theme for Jekyll.
-author:
-  name: neizod
-  avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
-  profile: |
-    Just another ordinary grad student in computer engineering.
-    I'm interest in programming language, algorithm, and mathematics.
+title: Karna
+desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
+url: http://webjeda.com/
+permalink: ':title/'
 
-    I live in Chiang Mai or Bangkok, Thailand.
-    And you may found me around BarCamp event ;D
-  socials:
-    facebook:
-    twitter: //twitter.com/neizod
-    google-plus:
-    github: //github.com/neizod
-    stack-overflow: //stackoverflow.com/users/889578/neizod
-    instagram:
-    pinterest:
-    steam: //steamcommunity.com/id/neizod/
-license: MIT License
+markdown: kramdown
+baseurl: "/karna"
 
-
-# theme variables, change this to make site looks best.
-baseurl: /lemma-theme
-paginate: 2
-
-
-# system variables, do not change unless you knew what's it does.
-paginate_path: page/:num
-highlighter: pygments
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
 
 sass:
-  sass_dir: _sass
-  style: compressed
+    style: compressed
+
+  
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+highlight: rouge
+
+
+# Tracker
+analytics: UA-83979019-1
+
+# Comments
+disqus-shortname: webjeda-demo
+
+# Contact form
+# Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
+api-token:   
+
+include: [_pages]
+version: 0.8
+
+gems: [jekyll-paginate, jekyll-seo-tag]
