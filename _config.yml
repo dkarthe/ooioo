@@ -4,14 +4,13 @@ name: ooIoo
 desc: Yet another simple theme for Jekyll.
 author:
   name: ooIoo
-  avatar: 
-  profile: |
+  avatar: //
+  profile: 
     
     Just another ordinary grad student in Electronics engineering.
     I'm interest in programming language, algorithm, and mathematics.
 
-    I'm living in India.
-    And you may found me on
+    I'm living in India.And you may found me on
     
   socials:
     facebook: https://facebook.com/u4i.me
