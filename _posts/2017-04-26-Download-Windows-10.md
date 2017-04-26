@@ -1,5 +1,6 @@
 ---
 published: false
+Tag: '-Announcement'
 ---
 # Download Windows 10
 
