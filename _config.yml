@@ -72,3 +72,13 @@ gems:
 disqus_shortname: ooioo
 .
 .
+
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []
