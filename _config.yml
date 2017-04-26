@@ -1,5 +1,6 @@
 # user variables, change this to make custom site.
 
+<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 name: ooIoo
 desc: Yet another simple theme for Jekyll.
 author:
