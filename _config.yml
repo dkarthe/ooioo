@@ -67,3 +67,13 @@ exclude:
 site.title
 gems:
   - jekyll-seo-tag
+  
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []  
