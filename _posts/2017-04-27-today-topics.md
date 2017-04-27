@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # Toolwiz Photos – Pro Editor
