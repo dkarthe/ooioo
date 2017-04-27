@@ -62,3 +62,6 @@ whitelist:
 exclude:
   - LICENSE
   - README.md
+
+
+site.title
