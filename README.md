@@ -1,10 +1,7 @@
-Lemma Theme
-===========
+# Otter Pop
 
-Lemma is yet another simple responsive theme for Jekyll.
+The world's greatest Jekyll theme.
 
+Example: <http://tybenz.com>
 
-License
--------
-
-- MIT
+![](http://jekyllthemes.org/thumbnails/otter-pop.png)
