@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pygments: true
 permalink: /otter-pop/:year/:month/:day/:title
 markdown: rdiscount
@@ -5,3 +6,89 @@ exclude: ['.git']
 name: "Otter Pop"
 description: "The world's greated jekyll theme"
 url: http://tybenz.com/otter-pop
+=======
+# user variables, change this to make custom site.
+
+name: ooIoo
+desc: Yet another simple theme for Jekyll.
+author:
+  name: ooIoo
+  avatar: //
+  profile: 
+    
+    Just another ordinary grad student in Electronics engineering.
+    I'm interest in programming language, algorithm, and mathematics.
+
+    I'm living in India.And you may found me on
+    
+  socials:
+    facebook: https://facebook.com/u4i.me
+    twitter: https://twitter.com/dkaarthik
+    github: https://github.com/dkarthe
+    google-plus:
+    instagram:
+    pinterest:
+    
+license: MIT License
+
+# theme variables, change this to make site looks best.
+baseurl: https://ooioo.co
+paginate: 2
+
+
+# system variables, do not change unless you knew what's it does.
+paginate_path: page/:num
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+compress html
+permalink: /:categories/:title/
+
+gems:
+  - jekyll-seo-tag
+
+webmaster_verifications:
+  google: 
+  bing: 
+  alexa:
+  yandex:
+  
+  <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+
+gems:
+  - jekyll-sitemap
+.
+.
+disqus_shortname: ooioo
+.
+.
+
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []
+>>>>>>> origin/gh-pages
