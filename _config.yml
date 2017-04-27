@@ -1,20 +1,20 @@
-title: "Your Name"
+title: "๏๏ɨ๏๏"
 description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
 about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-location: "Your Region, Country"
-email: your-email@example.com
+location: "TN, IN"
+email: info@ooioo.co
 baseurl: "https://ooioo.co"
 
 url: "https://ooioo.co" # replace by your site's url
-twitter_username: your-name
-github_username:  lukas-h
-author: "Your Name"
+twitter_username: dkaarthik
+github_username:  dkarthe
+author: "KD"
 
 # google analytics tracking code, please change the value
 g_analytics: ""
 
 # add your disqus to enable comments
-disqus_shortname:
+disqus_shortname:ooioo
 
 # add your disqus to enable comments
 disqus_shortname:
