@@ -65,3 +65,5 @@ exclude:
 
 
 site.title
+gems:
+  - jekyll-seo-tag
