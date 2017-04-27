@@ -1,6 +1,7 @@
 ---
 published: false
 ---
+
 # Toolwiz Photos – Pro Editor
 
 ![]({{site.baseurl}}/https://i2.wp.com/onhax.me/wp-content/uploads/2016/12/unnamed-13.png?resize=300%2C300&ssl=1)
