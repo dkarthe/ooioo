@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+title: ๏๏Ï๏๏
+email: info@ooioo.co
+description: A simple and awesome blog by ๏๏Ï๏๏
+url: https://ooioo.co/
 
 
 #
@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Kolkatta
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,28 +33,28 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: ๏๏Ï๏๏
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  job: ""
+  bio: "A simple and awesome blog powered by ๏๏Ï๏๏."
+  email:info@ooioo.co
+  disqus-shortname:ooioo
+  twitter: dkaarthik
+  facebook: u4i.me
   google:
-    plus: #username
+    plus: +karthikdkarthi
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: dkarthe
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  skype: #username
+  linkedin: dkaarthik
+  skype: karthik.d
   xing: #username
-  instagram: #username
+  instagram: dkaarthik
   lastfm: #username
   tumblr: #username
   pinterest: #username
