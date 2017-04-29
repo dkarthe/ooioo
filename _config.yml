@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 ###################################
 # Site wide configuration
@@ -67,3 +68,6 @@ owner:
   flickr: #username
   500px: #username
   codepen: #username
+=======
+theme: jekyll-theme-architect
+>>>>>>> origin/gh-pages
