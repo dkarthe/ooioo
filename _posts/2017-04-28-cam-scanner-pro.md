@@ -44,5 +44,3 @@ Done ! 🙂
 [CamScanner Phone PDF Creator v4.6.5.20170426.rar / Mirror (29.7 MB) – Untouched + License Key](http://ouo.io/8XW1gk)
 
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
