@@ -19,7 +19,7 @@ title: ooioo
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
 url: https://ooioo.co
-baseurl: "/end2end"
+baseurl: "https://ooioo.co"
 # baseurl: "https://ooioo.co"
 
 # google_analytics: UA-52446115-1
