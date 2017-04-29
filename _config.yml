@@ -1,69 +1,8 @@
-#
-###################################
-# Site wide configuration
-####################################
-#
-title: ooIoo  
-email: info@ooioo.co
-description: A simple and awesome blog theme powered by jekyll.
-url: https://ooioo.co/
-
-
-#
-###################################
-# Jekyll configuration
-####################################
-#
-timezone:          Asia/Kolkatta
-markdown:          kramdown
-highlighter:       rouge
-excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: true
-
-#
-###################################
-# Site Owner configuration
-####################################
-#
-owner:
-  name: ooIoo
-  avatar: leonids-logo.png
-  job: "ooIoo"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:info@ooioo.co
-  disqus-shortname:ooioo.disqus.com
-  twitter: https://twitter.com/dkaarthik
-  facebook: https://facebook.com/u4i.me
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: https://github.com/dkarthe
-  gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  skype: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  500px: #username
-  codepen: #username
+name: Photo gallery
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: https://iamnii.github.io/GridGallery/
+author:
+    name: Adjetey Sowah
+    twitter: #
