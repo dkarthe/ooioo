@@ -25,7 +25,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  enable_coderay: false
+  enable_coderay: true
 
 #
 ###################################
@@ -38,9 +38,9 @@ owner:
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:info@ooioo.co
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  disqus-shortname:ooioo.disqus.com
+  twitter: https://twitter.com/dkaarthik
+  facebook: https://facebook.com/u4i.me
   google:
     plus: #username
     analytics:
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: https://github.com/dkarthe
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
