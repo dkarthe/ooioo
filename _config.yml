@@ -23,3 +23,6 @@ webmaster_verifications:
   bing: 
   alexa: 
   yandex: 
+
+gems:
+  - jekyll-seo-tag
