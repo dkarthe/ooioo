@@ -1,28 +1,34 @@
 # Site settings
 title: Nice Blog
+description: A Nice Blog By ๏๏I๏๏ . # this means to ignore newlines until "baseurl:"
+url: "https://ooioo.co" # the base hostname & protocol for your site
+baseurl: "https://ooioo.co" # the subpath of your site, e.g. /blog
 name: ๏๏ɨ๏๏ # your name
 email: info@ooioo.co # your email address
-description: >
-    A Simple Blog By . # this means to ignore newlines until "baseurl:"
-baseurl: "https://ooioo.co" # the subpath of your site, e.g. /blog
-url: "https://ooioo.co" # the base hostname & protocol for your site
+social:
+name: ๏๏ɨ๏๏
 twitter_username: dkaarthik # your Twitter username
 github_username: dkarthe # your Github username
 disqus_username: ooioo # your disqus username
-
-google-analytics: UA-98062322-1 # add it if you have one
-
+links:
+    - https://twitter.com/dkaarthik
+    - https://www.facebook.com/u4i.me
+    - https://www.linkedin.com/in/dkaarthik
+    - https://plus.google.com/+karthikdkarthi
+    - https://github.com/dkarthe
 skillstree: true # turn on or off the skills tree in about page
 
 # Build settings
 permalink: none
 markdown: kramdown
 
+google-analytics: UA-98062322-1 # add it if you have one
 webmaster_verifications:
-  google: lWaJLdxuNx0o2B4QgLD9Ou2IoF2yTFkGbNmrqgUK2Fo
-  bing: 
+  google: google8dba47f07c4c3809
+  bing: 485EE434F790E110EFA81853B4A580F8
   alexa: 
   yandex: 
 
 gems:
   - jekyll-seo-tag
+
