@@ -1,7 +1,7 @@
 # Site settings
 title: Nice Blog
 description: A Nice Blog By ๏๏I๏๏.
-baseurl: "https://ooioo.co/" # the subpath of your site, e.g. /blog
+baseurl: "https://ooioo.co" # the subpath of your site, e.g. /blog
 name: ๏๏ɨ๏๏ # your name
 email: info@ooioo.co # your email address
 social:
