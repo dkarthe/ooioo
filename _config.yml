@@ -1,7 +1,8 @@
 # Site settings
 title: Nice Blog
-description: A Nice Blog By ๏๏I๏๏ . # this means to ignore newlines until "baseurl:"
+description: A Nice Blog By ๏๏I๏๏.
 url: "https://ooioo.co" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 name: ๏๏ɨ๏๏ # your name
 email: info@ooioo.co # your email address
 social:
