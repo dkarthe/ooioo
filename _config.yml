@@ -2,7 +2,6 @@
 title: Nice Blog
 description: A Nice Blog By ๏๏I๏๏ . # this means to ignore newlines until "baseurl:"
 url: "https://ooioo.co" # the base hostname & protocol for your site
-baseurl: "https://ooioo.co" # the subpath of your site, e.g. /blog
 name: ๏๏ɨ๏๏ # your name
 email: info@ooioo.co # your email address
 social:
