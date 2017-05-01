@@ -31,3 +31,4 @@ webmaster_verifications:
 gems:
   - jekyll-seo-tag
 
+paginate: 5
