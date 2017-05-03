@@ -18,7 +18,7 @@ links:
 skillstree: true # turn on or off the skills tree in about page
 
 # Build settings
-permalink: none
+permalink: pretty
 markdown: kramdown
 
 google-analytics: UA-98062322-1 # add it if you have one
