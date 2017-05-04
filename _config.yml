@@ -1,6 +1,6 @@
 # Site settings
-title: Nice Blog
-description: A Nice Blog By ๏๏I๏๏.
+title: ooioo
+description: A Nice Blog By ๏๏I๏๏.it could be a personal site.
 baseurl: "https://ooioo.co" # the subpath of your site, e.g. /blog
 <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 name: ๏๏ɨ๏๏ # your name
