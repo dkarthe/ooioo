@@ -29,15 +29,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             info@ooioo.co
+email:             info@ooioo.co
 #google.plus:        username
 twitter:            gpaidapps
-#facebook:          u4i.me
+facebook:          u4i.me
 github:             dkarthe
 stackoverflow:     
-#linkedin:          dkaarthik
+linkedin:          dkaarthik
 #xing:              username
-#instagram:         dkaarthik
+instagram:         dkaarthik
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +52,7 @@ stackoverflow:
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
