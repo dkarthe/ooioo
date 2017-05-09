@@ -24,6 +24,7 @@ layout: compress
       <div class="content">
         <ul class="posts-list">
         {% for post in site.posts %}
+          {% include adsense.html %}
           <li>
             <h2>
               <a href="{{ site.url }}{{ post.url }}" class="post-title">
