@@ -54,6 +54,9 @@ linkedin:          dkaarthik
 #hackernews:        username
 #behance:           username
 
+#images
+opt_images
+image_hash
 # Gems
 gems:
   - jekyll-feed
