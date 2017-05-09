@@ -60,6 +60,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-seo-tag
+  - jekyll-image_optimizer
 
 # Exclude list
 include: [_pages]
