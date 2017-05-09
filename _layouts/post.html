@@ -18,6 +18,7 @@ layout: compress
             {% for tag in page.tags %}
               <li><a href="{{ site.url }}/tags#{{ tag }}">{{ tag }}</a></li>
               {% unless forloop.last %}
+            {% include adsense.html %}
               {% endunless %}
             {% endfor %}
           </ul>
