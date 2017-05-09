@@ -1,5 +1,5 @@
 # Site
-title: ooioo
+title: ooIoo
 description: Stylish, Two-Column Jekyll Theme
 url: https://ooioo.co
 logo: halve.png                                       # Site logo
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Google Analytics
-#google-analytics: UA-XXXXX-Y
+google-analytics: UA-98062322-1
 
 # Social Links
 email:             info@ooioo.co
@@ -37,7 +37,7 @@ github:             dkarthe
 stackoverflow:     
 linkedin:          dkaarthik
 #xing:              username
-instagram:         dkaarthik
+#instagram:         dkaarthik
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -59,6 +59,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-seo-tag
 
 # Exclude list
 include: [_pages]
