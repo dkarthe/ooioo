@@ -54,6 +54,12 @@ linkedin:          dkaarthik
 #hackernews:        username
 #behance:           username
 
+webmaster_verifications:
+  google: 
+  bing: 
+  alexa: 
+  yandex: b4c37c043f638d20
+  
 # Gems
 gems:
   - jekyll-feed
