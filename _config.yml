@@ -5,7 +5,7 @@ baseurl: 'https://ooioo.co' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -22,7 +22,7 @@ email: karthik.d@live.in
 phone: +91-900-377-6115
 website: ooioo.co #do not add http://
 linkedin: dkaarthik
-github: dkarthe
+#github: dkarthe
 twitter: '@dkaarthik'
 
 
