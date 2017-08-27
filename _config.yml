@@ -6,7 +6,7 @@ title: Home
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url: 
+url: https://ooioo.co
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
@@ -23,11 +23,11 @@ description: >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name: <KD> 
-  email: <kd@datamail.in>
+  name: KD 
+  email: kd@datamail.in
 
 # Fallback image and color
-image: /hydejack/assets/img/nap.jpg
+image: /assets/img/nap.jpg
 color: '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
