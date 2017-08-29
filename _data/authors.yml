@@ -59,7 +59,7 @@ qwtel:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email: kd@datamail.in
+    email: mailto:kd@datamail.in
     # rss:             https://<url>/feed.xml
 
 # Another author
