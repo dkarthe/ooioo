@@ -104,6 +104,8 @@ gems:
   - jekyll-redirect-from
   - jekyll-relative-links
   - jekyll-sitemap
+  - jekyll-admin
+  - jekyll serve
 
 exclude:
   - README.md
