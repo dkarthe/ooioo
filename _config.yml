@@ -131,3 +131,9 @@ compress_html:
 
 sass:
   style: compressed
+
+plugins:
+   - jekyll-gist
+   - jekyll-coffeescript
+   - jekyll-assets
+   - another-jekyll-plugin
