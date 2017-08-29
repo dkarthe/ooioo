@@ -11,3 +11,10 @@ gem "jekyll-relative-links", "~> 0.4"
 gem "jekyll-sitemap", "~> 1.0"
 
 gem "classifier-reborn", "~> 2.1"
+
+group :jekyll_plugins do
+   gem "jekyll-gist"
+   gem "jekyll-coffeescript"
+   gem "jekyll-assets"
+   gem "another-jekyll-plugin"
+ end
