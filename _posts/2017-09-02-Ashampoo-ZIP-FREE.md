@@ -1,3 +1,8 @@
+---
+layout: post
+tag: blog
+title: Ashampoo Zip
+---
 # Ashampoo® ZIP FREE
 
 Nearly all computer users come across file archives in different formats, e.g. the wide-spread ZIP format. Compressed files are easy to store and share. Ashampoo ZIP Free bundles essential features like reading and writing of archives in a single free application.
