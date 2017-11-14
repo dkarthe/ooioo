@@ -8,7 +8,7 @@ title: Ashampoo Zip
 
 * Ashampoo ZIP Free supports comfort features such as jump lists and the display of progress on taskbar icons for Windows 7 and Windows 8. The user interface employs the Windows 8 tile-based design with quick access to all essential features. And just like in Windows 8, tiles can be rearranged for personalization.
 
-(https://github.com/dkarthe/ooioo/assets/img/zip.png)
+![img](https://github.com/dkarthe/ooioo/assets/img/zip.png)
 
 Windows 10
 Windows 8.1
