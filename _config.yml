@@ -5,7 +5,7 @@
 baseurl: /
 
 # site title
-title: TechByte
+title: ooIoo
 
 # site favicon, absolute path required
 favicon: /assets/img/favicon.ico
@@ -13,7 +13,7 @@ favicon: /assets/img/favicon.ico
 # home button image, absolute path requried
 avatar: /assets/img/r.png
 # specify meaningful description for your avatar
-avatarInfo: "Red tower"
+avatarInfo: "Red Dot"
 
 # default variables for post-type page
 defaults:
